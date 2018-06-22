@@ -563,6 +563,13 @@ a{text-decoration:none;}
 	left:0px;
 	float:left;
 }
+.fourTwitter{
+	width:300px;
+	height:300px;
+	left:0px;
+	float:left;
+	overflow:auto
+}
 .newtitle{
 	height:120px;
 	width:120px;
@@ -618,4 +625,52 @@ a{text-decoration:none;}
 	width:1200px; 
 	position:relative;
 	top :0px;
+}
+.nti{
+	height:25px;
+	font-family: "Microsoft YaHei",微软雅黑;
+	font-size: 20px;
+	font-weight: bold;
+	color:#505050;
+	margin-top: 15px;
+	margin-left: 15px;
+	position:absolute;
+	z-index:10;
+	text-align:left;
+}
+.nte{
+	height:95x;
+	width:120px;
+	font-family: "Microsoft YaHei",微软雅黑;
+	font-size: 12px;
+	color: #505050;
+	margin-top: 40px;
+	margin-left: 15px;
+	text-align:left;
+}
+.bigTextBox{
+	height:150px;
+	width:600px;
+	background-color:#FFFFFF;
+	left:0px;
+	float:left;
+}
+.bigTextTop{
+	height:80px;
+	width:460px;
+	font-family: "Microsoft YaHei",微软雅黑;
+	font-size: 12px;
+	color: #505050;
+	margin-top: 70px;
+	margin-left: 70px;
+	text-align:left;
+}
+.bigText{
+	height:150px;
+	width:460px;
+	font-family: "Microsoft YaHei",微软雅黑;
+	font-size: 12px;
+	color: #505050;
+	margin-left: 70px;
+	text-align:left;
 }

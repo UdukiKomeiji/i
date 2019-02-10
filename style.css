@@ -690,3 +690,83 @@ a{text-decoration:none;}
 	color:#FFFFFF;
 	text-align:left;
 }
+.nameBox{
+	height:120px;
+	width:120px;
+	font-family: "Microsoft YaHei",微软雅黑;
+	font-size: 30px;
+	font-weight: bold;
+	color:#7b9384;
+	margin-top: 15px;
+	margin-left: 15px;
+	text-align:left;
+}
+.nameBoxPinyin{
+	width:120px;
+	font-family: "Microsoft YaHei",微软雅黑;
+	font-size: 20px;
+	font-weight: bold;
+	color:#7b9384;
+	text-align:left;
+}
+.introductionBox{
+	height:120px;
+	width:120px;
+	font-family: "Microsoft YaHei",微软雅黑;
+	font-size: 16px;
+	font-weight: bold;
+	margin-top: 15px;
+	margin-left: 15px;
+	text-align:left;
+	color:#7b9384;
+}
+.QQBox{
+	height:25px;
+	font-family: "Microsoft YaHei",微软雅黑;
+	font-size: 15px;
+	font-weight: bold;
+	color:#7b9384;
+	margin-top: 45px;
+	margin-left: 15px;
+	text-align:left;
+	z-index:10;
+	position:absolute;
+}
+.mailBox{
+	height:25px;
+	font-family: "Microsoft YaHei",微软雅黑;
+	font-size: 15px;
+	font-weight: bold;
+	color:#7b9384;
+	margin-top: 110px;
+	margin-left: 15px;
+	text-align:left;
+	z-index:10;
+	position:absolute;
+}
+.mailTitle{
+	height:30px;
+	width:120px;
+	font-family: "Microsoft YaHei",微软雅黑;
+	font-size: 20px;
+	font-weight: bold;
+	color:#7b9384;
+	margin-top: 80px;
+	margin-left: 15px;
+	text-align:left;
+	z-index:10;
+	position:absolute;
+}
+.QQTitle{
+	height:30px;
+	width:120px;
+	font-family: "Microsoft YaHei",微软雅黑;
+	font-size: 20px;
+	font-weight: bold;
+	color:#7b9384;
+	margin-top: 15px;
+	margin-left: 15px;
+	text-align:left;
+	z-index:10;
+	position:absolute;
+}

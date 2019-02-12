@@ -770,3 +770,60 @@ a{text-decoration:none;}
 	z-index:10;
 	position:absolute;
 }
+.verticalTemplate{
+	height:750px;
+	width:150px;
+	float:left;
+}
+.novelBox{
+	height:610px;
+	width:600px;
+	background-color:#FFFFFF;
+	float:left;
+	padding-top: 70px;
+	padding-left: 150px;
+	padding-bottom: 70px;
+	padding-right: 150px;
+	overflow:auto;
+	font-family: "Microsoft YaHei",微软雅黑;
+	font-size: 15px;
+	color: #505050;
+	max-height:610px;
+	max-width:600px;
+}
+.innerNovelBox{
+	width:600px;
+	height:600px;
+	float:left;
+	margin-top: 70px;
+	margin-left: 150px;
+	font-family: "Microsoft YaHei",微软雅黑;
+	font-size: 15px;
+	color: #505050;
+	text-align:left;
+	overflow:auto;
+
+}
+.novelTitle{
+	width:100%;
+	height:50px;
+	float:left;
+	font-family: "Microsoft YaHei",微软雅黑;
+	font-size: 30px;
+	color: #505050;
+	text-align:left;
+	font-weight: bold;
+}
+.novelDate{
+	width:100%;
+	height:100px;
+	float:left;
+	font-family: "Microsoft YaHei",微软雅黑;
+	font-size: 15px;
+	color: #7b9384;
+	text-align:left;
+}
+.lineFive{
+	height:750px;
+	width:1200px;
+}

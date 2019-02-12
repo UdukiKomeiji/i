@@ -654,6 +654,14 @@ a{text-decoration:none;}
 	background-color:#FFFFFF;
 	left:0px;
 	float:left;
+	transition:opacity 0.5s;
+	-moz-transition:opacity 0.5s;
+	-webkit-transition:opacity 0.5s;
+	-o-transition:opacity 0.5s;
+}
+.bigTextBox:hover{
+	-moz-opacity:0.5;
+	opacity: 0.5;
 }
 .bigTextTop{
 	height:80px;
